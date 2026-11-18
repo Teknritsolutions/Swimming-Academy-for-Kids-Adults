@@ -1,0 +1,10 @@
+﻿node_modules/
+.tmp/
+dist/
+*.zip
+tests/*.png
+tests/*.jpg
+tests/visual/
+tests/artifacts/
+.openai/*.local.*
+.openai/

@@ -1,0 +1,13 @@
+{
+    "tool": "Built-in image_gen",
+    "assets": [
+        {
+            "file": "assets/images/utility-404.webp",
+            "prompt": "Premium photorealistic landscape editorial photograph for a swimming academy 404 page. A lavender kickboard and purple swimming goggles resting neatly on the edge of a tranquil modern indoor pool, a single curved swimming lane visible in turquoise water, warm soft daylight and elegant architecture, reassuring calm mood suggesting finding your way back to the water, realistic materials, no people necessary, no text numbers signs logos watermark."
+        },
+        {
+            "file": "assets/images/utility-coming.webp",
+            "prompt": "Premium photorealistic landscape editorial photograph for a swimming academy coming soon launch page. Friendly adult swimming coach in plum teaching top welcoming an adult beginner in modest lavender swimming rashguard at the edge of a beautiful modern indoor teaching pool, natural smiles and relaxed hopeful mood, turquoise water, soft bright daylight, full heads with generous framing, subjects toward edges with uncluttered central water for a website overlay panel, realistic anatomy, no text logos watermark."
+        }
+    ]
+}

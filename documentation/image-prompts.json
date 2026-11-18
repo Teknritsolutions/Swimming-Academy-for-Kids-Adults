@@ -1,0 +1,172 @@
+{
+    "tool": "Built-in image_gen",
+    "basePrompt": "Use case: photorealistic-natural. Asset type: original swimming academy website photograph. Authentic premium editorial photography, anatomically correct people and swimming technique, safe supervised environment, modern clean indoor pool, soft natural daylight, realistic water and skin texture. Plum and violet clothing and equipment, neutral pale architecture. Landscape 3:2 composition, tasteful candid framing, no text, no logos, no watermark. Each person is fictional.",
+    "scenes": [
+        [
+            "home1-hero",
+            "An adult female swim instructor in a plum rash guard teaching a child with goggles at an indoor pool edge, soft daylight, reassuring expressions, no text or logos."
+        ],
+        [
+            "home1-kids",
+            "a child with goggles practicing kicking with a kickboard beside an attentive female instructor"
+        ],
+        [
+            "home1-adults",
+            "two adult beginners learning breathing at the edge with a male swim instructor"
+        ],
+        [
+            "home1-advanced",
+            "an experienced adult swimmer practicing a clean freestyle stroke in a lane"
+        ],
+        [
+            "home1-about",
+            "a welcoming female instructor and two students standing at an indoor pool edge"
+        ],
+        [
+            "home1-pool",
+            "a pristine indoor lap pool with violet lane ropes and expansive daylight windows, no people"
+        ],
+        [
+            "home1-changing",
+            "a premium neutral white and charcoal swimming pool changing room with lockers and benches, no people"
+        ],
+        [
+            "home1-equipment",
+            "plum kickboards, goggles and violet pull buoys neatly arranged on a pale poolside bench"
+        ],
+        [
+            "home1-coach-1",
+            "portrait of a friendly female swimming instructor age 35 wearing plum polo by an indoor pool"
+        ],
+        [
+            "home1-coach-2",
+            "portrait of a friendly male swimming instructor age 32 with short dark hair wearing charcoal polo by a pool"
+        ],
+        [
+            "home1-coach-3",
+            "portrait of a smiling female swimming instructor age 28 wearing violet polo by a pool"
+        ],
+        [
+            "home1-cta",
+            "a mother and child in swim caps smiling at the pool edge after a supervised lesson"
+        ],
+        [
+            "home2-hero",
+            "wide architectural photograph of a tranquil premium indoor swimming pool with a single adult swimmer in the far lane"
+        ],
+        [
+            "home2-method",
+            "an instructor demonstrating an arm stroke to a teenage beginner at a pool edge"
+        ],
+        [
+            "home2-pool",
+            "a bright indoor teaching pool with shallow entry steps and neutral modern architecture"
+        ],
+        [
+            "home2-coach",
+            "portrait of a male head swimming coach age 42 in a plum polo with a whistle standing poolside"
+        ],
+        [
+            "home2-story",
+            "a confident older adult female swimmer in a cap smiling after finishing a lap"
+        ],
+        [
+            "home2-cta",
+            "overhead photograph of an adult swimmer gliding through a pool lane, quiet daylight"
+        ],
+        [
+            "about-hero",
+            "a group of swimming students and two coaches talking poolside before a lesson"
+        ],
+        [
+            "about-safety",
+            "an alert female lifeguard with a rescue tube supervising an indoor swimming lesson"
+        ],
+        [
+            "about-culture",
+            "a diverse small group of swimming instructors in plum polos smiling together beside an indoor pool"
+        ],
+        [
+            "programs-hero",
+            "a swim instructor explaining lane etiquette to a small group of different age students"
+        ],
+        [
+            "program-kids",
+            "a young child in goggles learning to float on their back assisted by a female coach"
+        ],
+        [
+            "program-teens",
+            "two teenagers with swimming caps preparing for a lesson at the pool edge"
+        ],
+        [
+            "program-adults",
+            "an adult male beginner in a cap practicing a kickboard drill in an indoor pool"
+        ],
+        [
+            "program-beginner",
+            "an adult female beginner learning to exhale bubbles with a coach beside her"
+        ],
+        ["program-intermediate", "an adult swimmer practicing a backstroke drill in a lane"],
+        [
+            "program-advanced",
+            "a competitive adult swimmer preparing at a starting block, realistic anatomy"
+        ],
+        [
+            "program-private",
+            "a female swimming coach giving a one-to-one lesson to an adult woman at the pool edge"
+        ],
+        [
+            "program-benefits",
+            "neatly arranged swim goggles towel cap and training equipment at the poolside"
+        ],
+        [
+            "details-hero",
+            "a child with a plum swimming cap learning a gentle supported front float with an instructor"
+        ],
+        [
+            "coaches-hero",
+            "a female swimming coach leading a poolside warmup for a small adult group"
+        ],
+        [
+            "coach-head",
+            "portrait of a mature female head coach age 45 in a plum polo with arms relaxed at a pool"
+        ],
+        [
+            "coach-directory-1",
+            "portrait of a male swim coach age 30 with curly hair in a charcoal polo at a pool"
+        ],
+        [
+            "coach-directory-2",
+            "portrait of a female swim coach age 27 with dark hair tied back wearing plum polo at a pool"
+        ],
+        [
+            "coach-directory-3",
+            "portrait of a male swim coach age 39 with close cropped hair in violet polo at a pool"
+        ],
+        ["blog-hero", "a quiet indoor pool with swimming goggles and a towel in the foreground"],
+        [
+            "blog-feature",
+            "a parent helping a child put on swimming goggles before a supervised lesson"
+        ],
+        ["blog-breathing", "an adult swimmer practicing side breathing in a pool lane"],
+        [
+            "blog-safety",
+            "an instructor demonstrating a safe seated entry into a shallow pool to a child"
+        ],
+        ["blog-fitness", "an older adult swimmer doing a gentle poolside shoulder warmup"],
+        [
+            "article-hero",
+            "a beginner adult female swimmer receiving reassuring advice from a coach at the pool edge"
+        ],
+        [
+            "article-body",
+            "close-up of neatly fitted swimming goggles and cap worn by an adult swimmer at the pool edge"
+        ],
+        ["article-related", "a young adult swimmer resting at the edge between practice laps"],
+        [
+            "login-photo",
+            "a serene premium indoor pool seen through an archway in neutral architecture"
+        ],
+        ["register-photo", "a joyful adult swimming lesson with an instructor and two beginners"]
+    ]
+}

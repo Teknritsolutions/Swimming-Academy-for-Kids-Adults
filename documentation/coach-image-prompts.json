@@ -1,0 +1,21 @@
+{
+    "tool": "Built-in image_gen",
+    "assets": [
+        {
+            "file": "assets/images/coach-consultation.webp",
+            "prompt": "Premium photorealistic editorial photograph, landscape 3:2, swimming academy consultation. Friendly adult female coach in plum polo seated at an elegant poolside table having a relaxed goal-setting conversation with a fully clothed adult learner in lavender athletic jacket, blank clipboard and purple goggles on table, turquoise indoor pool behind, warm daylight, natural expressions and anatomy, full heads with generous framing, no text logos watermark."
+        },
+        {
+            "file": "assets/images/coach-foundations.webp",
+            "prompt": "Premium photorealistic editorial square photograph for swimming coach teaching foundations. Friendly adult instructor in plum teaching rashguard patiently explaining a simple kickboard drill to a child age 8 in modest lavender long sleeve swimming rashguard, cap and goggles in shallow supervised indoor pool. Natural attentive expressions, safe calm lesson, full heads and activity in upper half, uncluttered turquoise water lower half for text overlay, soft daylight, realistic anatomy, no text logos watermark."
+        },
+        {
+            "file": "assets/images/coach-awareness.webp",
+            "prompt": "Premium photorealistic editorial square photograph for swimming coach safety awareness. Professional adult female lifeguard in plum uniform holding rescue tube attentively supervising a small swimming lesson in modern shallow indoor teaching pool. Clear lane boundaries, learners mostly submerged in modest purple athletic swimming attire, natural realistic anatomy, full lifeguard head in upper half with generous framing, water lower half for text overlay, warm daylight, no text logos watermark."
+        },
+        {
+            "file": "assets/images/coach-technique.webp",
+            "prompt": "Premium photorealistic editorial square photograph for swimming coach technical focus. Adult coach in plum polo on pool deck demonstrating a precise arm movement to adult swimmer wearing modest lavender athletic swimming rashguard and purple cap, swimmer shoulders above water at pool edge, focused friendly instruction in modern indoor lap pool, natural realistic anatomy, full heads and interaction in upper half, uncluttered turquoise water below for text overlay, soft daylight, no text logos watermark."
+        }
+    ]
+}

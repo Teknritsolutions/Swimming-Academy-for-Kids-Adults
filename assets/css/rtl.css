@@ -1,0 +1,10 @@
+[dir="rtl"] .lucide-arrow-right {
+    transform: scaleX(-1);
+}
+input[type="email"],
+input[type="tel"],
+input[type="password"],
+.direction-ltr {
+    direction: ltr;
+    text-align: start;
+}

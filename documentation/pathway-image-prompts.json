@@ -1,0 +1,21 @@
+{
+    "tool": "Built-in image_gen",
+    "assets": [
+        {
+            "file": "assets/images/pathway-little.webp",
+            "prompt": "Use case photorealistic-natural. Generate a new landscape 3:2 editorial photograph for premium swimming academy website card 'Little Swimmers', ages 4 to 7, joyful water confidence. One cheerful child age 6 wearing modest purple swimming lessons rashguard, purple cap and goggles, learning to float with a colorful kickboard, a friendly attentive female instructor in plum swim teaching top closely supporting the lesson in a shallow indoor teaching pool. Water safety and gentle encouragement. Waist and shoulders mostly underwater, natural realistic anatomy and expressions. Bright diffused daylight, clean modern pool, turquoise water, purple accents. Frame full heads and the kickboard with extra space around subjects for a card image crop. No text, logos, watermarks or collage."
+        },
+        {
+            "file": "assets/images/pathway-junior.webp",
+            "prompt": "Use case photorealistic-natural. Generate a new landscape 3:2 premium editorial photograph for swimming academy website card 'Junior Swimmers', ages 8 to 12, foundations that last. Two children around age 10 wearing modest athletic swim tops, purple swim caps and goggles, practicing a coordinated kickboard drill in a clearly marked shallow lane with an attentive swimming coach in plum teaching top nearby. Friendly focused lesson in modern bright indoor swimming pool. Bodies mostly submerged, full heads visible with generous room for card crop, realistic natural expressions and anatomy, soft daylight, turquoise water and plum accents. No text, logos, watermarks or collage."
+        },
+        {
+            "file": "assets/images/pathway-teen.webp",
+            "prompt": "Use case photorealistic-natural. Generate a new landscape 3:2 premium editorial photograph for swimming academy card 'Teen Swimmers', ages 13 to 17, skills and independence. Two teenage learners age 16 in modest purple athletic swimming rashguards, caps and goggles at the edge of an indoor lap pool attentively listening to a professional adult coach in plum polo explaining a stroke technique with a simple hand gesture. Teens shoulders above water with bodies submerged, coach standing on deck. Confident purposeful training, natural realistic anatomy, complete heads with space for card crop. Bright diffused daylight, turquoise water, clean lane ropes, modern pool architecture. No text, logos, watermarks or collage."
+        },
+        {
+            "file": "assets/images/pathway-adult.webp",
+            "prompt": "Use case photorealistic-natural. Generate a new landscape 3:2 premium editorial photograph for swimming academy website card 'Adult Swimmers', a fresh start at any age. A friendly adult beginner woman around 50 wearing a modest plum athletic swim top, cap and goggles resting around cap, practicing a gentle supported float with a lavender kickboard in an indoor teaching pool. An adult male coach in plum swim teaching top stands in shallow water nearby calmly encouraging her. Body mostly submerged, smiling relaxed faces, realistic natural anatomy. Full heads with generous space for card crop, bright soft daylight, turquoise pool and tasteful purple accents. No text, logos, watermarks or collage."
+        }
+    ]
+}

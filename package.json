@@ -1,0 +1,19 @@
+{
+    "name": "orynwave-swimming-academy",
+    "version": "1.0.0",
+    "private": true,
+    "description": "Complete premium swimming academy HTML template",
+    "scripts": {
+        "start": "node scripts/serve.mjs",
+        "build": "node scripts/build.mjs",
+        "test": "node tests/site.cjs",
+        "test:static": "node tests/static.cjs",
+        "test:workflows": "node tests/workflows.cjs",
+        "format": "node scripts/format.cjs",
+        "package": "node scripts/package.mjs"
+    },
+    "devDependencies": {
+        "playwright": "1.61.1",
+        "prettier": "3.6.2"
+    }
+}

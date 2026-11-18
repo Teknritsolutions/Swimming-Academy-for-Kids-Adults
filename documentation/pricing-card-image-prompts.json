@@ -1,0 +1,17 @@
+{
+    "tool": "Built-in image_gen",
+    "assets": [
+        {
+            "file": "assets/images/pricing-payment.webp",
+            "prompt": "Photorealistic premium editorial square photograph for swimming academy payment information card. Fully clothed adult learner in lavender athletic jacket talking with academy administrator in plum polo at elegant poolside reception desk, reviewing an unlettered blank invoice on clipboard, no payment transaction occurring, no card numbers or readable text. Modern indoor pool behind, warm daylight, turquoise and plum palette, realistic anatomy, full heads in upper half, uncluttered desk lower half for website text overlay. No logos watermark collage."
+        },
+        {
+            "file": "assets/images/pricing-period.webp",
+            "prompt": "Photorealistic premium editorial square photograph for swimming academy membership periods card. Fully clothed adult learner in lavender warmup jacket planning a regular swimming routine with a blank monthly calendar notebook on poolside bench, purple towel and goggles nearby. Calm thoughtful scene, modern indoor pool, turquoise water and warm daylight, natural realistic anatomy, full head and calendar in upper half with crop space, clean bench lower half for website text overlay. No readable text numerals logos watermark collage."
+        },
+        {
+            "file": "assets/images/pricing-guidance.webp",
+            "prompt": "Photorealistic premium editorial square photograph for swimming academy membership guidance card. Friendly female swim membership advisor in plum polo having a reassuring conversation with fully clothed adult beginner in lavender jacket at bright modern pool reception, natural smiles and attentive listening, blank brochure on table, turquoise indoor pool behind. Realistic anatomy, full heads and interaction in upper half with generous framing, uncluttered table lower half for website text overlay, soft warm daylight. No text logos watermark collage."
+        }
+    ]
+}

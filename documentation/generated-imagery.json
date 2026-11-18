@@ -1,0 +1,34 @@
+{
+    "tool": "Built-in image_gen",
+    "purpose": "New testimonial portraits and content-specific learning journey backgrounds",
+    "assets": [
+        {
+            "file": "assets/images/portrait-amelia.webp",
+            "prompt": "Use case: photorealistic-natural. Asset: square testimonial avatar photo for a premium swimming academy website. Create one natural professional portrait of a fictional friendly woman age 35, Amelia, parent of a young swimmer, medium brown hair, warm relaxed smile, wearing a tasteful light lavender casual blouse. Head and shoulders centered, entire head visible with generous space around hair for circular avatar crop. Softly blurred modern indoor swimming pool in background, warm daylight, authentic skin texture, premium editorial photography. Fully clothed, no text, no logos, no watermark. One single portrait, not a collage."
+        },
+        {
+            "file": "assets/images/portrait-daniel.webp",
+            "prompt": "Square testimonial avatar portrait for swimming academy website. One fictional friendly adult beginner swimmer Daniel, man age 42 with short dark hair and neatly trimmed beard, warm genuine smile, wearing a navy athletic polo shirt. Centered head and shoulders, generous space around full head for circular avatar crop. Blurred modern indoor pool background. Premium natural editorial photograph, realistic skin, warm soft daylight, fully clothed. No text, logo, watermark, or collage."
+        },
+        {
+            "file": "assets/images/portrait-maya.webp",
+            "prompt": "Square testimonial avatar portrait for swimming academy website. One fictional confident intermediate swimmer Maya, woman age 29 with dark brown skin and naturally curly hair loosely tied back, friendly relaxed smile, wearing a plum athletic zip jacket. Centered head and shoulders, generous space around entire head for circular avatar crop. Softly blurred bright indoor swimming pool. Premium natural editorial photograph, authentic skin texture, soft daylight. Fully clothed. No text, logos, watermark or collage."
+        },
+        {
+            "file": "assets/images/journey-program.webp",
+            "prompt": "Use case photorealistic-natural. Square premium editorial photograph for the learning-step card 'Find your program' on a swimming academy website. Friendly female swim academy advisor in lavender polo discussing lesson options with a fully clothed adult student at an elegant poolside reception table, both with natural attentive expressions. Swimming lanes softly visible behind them. A blank unlettered brochure on table, no readable writing. Compose subjects in upper half, lower half shows uncluttered table/poolside environment for website text overlay. Warm daylight, plum accents, turquoise pool, realistic faces and hands. One cohesive photograph. No text, brand logos or watermark."
+        },
+        {
+            "file": "assets/images/journey-timing.webp",
+            "prompt": "Use case photorealistic-natural. Square premium editorial photograph for swimming academy learning-step card 'Choose your time'. Close-up of a fully clothed adult learner seated at an indoor poolside bench, planning weekly lessons with an open blank weekly planner with simple empty grid and wristwatch, a swim bag, neatly folded purple towel and goggles nearby. Turquoise swimming pool softly blurred behind. Focus on learner's hands and planner in upper half, uncluttered poolside in lower half for website text overlay. Calm warm daylight, lavender and plum accents, natural realistic anatomy. No readable text, no numbers, no logos, no watermark. One single photograph."
+        },
+        {
+            "file": "assets/images/journey-coach.webp",
+            "prompt": "Use case photorealistic-natural. Square premium editorial photograph for swimming academy learning-step card 'Meet your coach'. Friendly male swimming coach in plum polo standing poolside greeting a fully clothed adult beginner learner in a lavender athletic top, natural smiles, comfortable respectful distance, modern clean indoor pool and lane ropes behind. Waist-up subjects in upper half, uncluttered poolside and water below to allow website text overlay. Bright soft daylight, turquoise water, realistic professional photography. No text, logos, watermark or collage."
+        },
+        {
+            "file": "assets/images/journey-progress.webp",
+            "prompt": "Use case photorealistic-natural. Square premium editorial photograph for swimming academy learning-step card 'See yourself grow'. Adult woman swimmer wearing modest one-piece athletic swimwear and purple cap in water at edge of indoor swimming pool, smiling proudly after completing a lap, female coach in plum polo on deck giving a friendly thumbs up. Frame head and upper shoulders of swimmer above water, coach upper body in upper half, softly rippling turquoise water in lower half for website text overlay. Supportive celebratory mood, natural soft daylight, premium realistic editorial photography, anatomically natural. No text, no logos, no watermark, no collage."
+        }
+    ]
+}

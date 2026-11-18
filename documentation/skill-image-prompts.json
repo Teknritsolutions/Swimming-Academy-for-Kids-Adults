@@ -1,0 +1,17 @@
+{
+    "tool": "Built-in image_gen",
+    "assets": [
+        {
+            "file": "assets/images/skill-comfort.webp",
+            "prompt": "Use case photorealistic-natural. New square premium editorial photograph for a swimming lesson card 'Feel comfortable': safe entry, pool awareness and simple water exploration. A cheerful child age 7 in a modest lavender swim rashguard and purple cap taking a careful first step down broad safe pool entry steps while a friendly adult instructor in plum swim teaching top stands beside the child in shallow water, offering reassuring guidance. Clear modern indoor teaching pool, calm turquoise water, natural warm daylight, realistic anatomy and supportive expressions. Full heads and main interaction in upper half with generous crop room; lower half uncluttered water for website text overlay. No text, logos, watermark or collage."
+        },
+        {
+            "file": "assets/images/skill-breathing.webp",
+            "prompt": "Use case photorealistic-natural. New square premium editorial photograph for swimming lesson card 'Learn to breathe': exhale in water and coordinate a relaxed breath. A child age 8 in a modest purple long sleeve swim rashguard, cap and goggles at the edge of a shallow indoor teaching pool practicing gently blowing bubbles into water; friendly adult female instructor in plum swim teaching top in water nearby demonstrating the breathing exercise. Heads tilted naturally toward water with upper faces visible, natural anatomy, calm supervised learning, clean turquoise pool, warm soft daylight. Compose people and activity in upper half with generous crop room; lower half clear softly rippling water for text overlay. No text, logos, watermark or collage."
+        },
+        {
+            "file": "assets/images/skill-floating.webp",
+            "prompt": "Use case photorealistic-natural. New square premium editorial photograph for swimming lesson card 'Float & move': balance, kicking and supported movement. A child age 7 in a modest lavender athletic swim rashguard, purple swim cap and goggles practicing a gentle front float and kick using a lavender kickboard, closely supervised and supported by a friendly adult instructor in plum swim teaching top standing in shallow water. Joyful confident expressions, safe modern indoor teaching pool, warm daylight, turquoise water, anatomically realistic bodies mostly submerged. Full heads, board and interaction in upper half with generous crop room; lower half calm water for website text overlay. No text, logos, watermark or collage."
+        }
+    ]
+}

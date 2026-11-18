@@ -1,0 +1,21 @@
+{
+    "tool": "Built-in image_gen",
+    "assets": [
+        {
+            "file": "assets/images/timings-hero.webp",
+            "prompt": "Use case photorealistic-natural. New landscape 3:2 premium editorial photograph for a swimming academy 'Batch timings' page. Fully clothed adult learner in lavender activewear and a friendly academy coordinator in plum polo planning weekly swim lessons together at a clean reception table beside a modern indoor swimming pool. Blank weekly planner with simple empty grid and purple swim goggles on table, no readable text or numerals. Upper-body subjects with full heads and generous space around them, relaxed professional expressions, warm daylight, turquoise water, plum accents, natural anatomy, crisp realistic photography. No text, logo, watermark or collage."
+        },
+        {
+            "file": "assets/images/enrollment-hero.webp",
+            "prompt": "Use case photorealistic-natural. New landscape 3:2 premium editorial photograph for swimming academy 'Batch enrollment' page. Welcoming adult female academy advisor in plum polo helping a fully clothed parent and child age 8 in lavender casual clothes complete a blank unlettered enrollment form at an elegant poolside reception desk. Parent and advisor smile naturally, child excited but calm. Modern bright indoor pool visible behind them, no swimmer focus. Frame full heads and shoulders with generous crop room. Tasteful purple accessories, turquoise water, soft warm daylight, realistic natural anatomy and skin. No readable text, logos, watermark or collage."
+        },
+        {
+            "file": "assets/images/pricing-hero.webp",
+            "prompt": "Use case photorealistic-natural. New landscape 3:2 premium editorial photograph for swimming academy 'Membership pricing' page. Friendly academy membership advisor in plum polo seated at a clean modern desk talking to a fully clothed adult learner in lavender athletic jacket about swimming goals and membership options. A blank unlettered open brochure and a simple calculator turned away on desk, a folded swim towel and goggles nearby, attractive indoor pool blurred in background. Honest reassuring mood, full heads and upper bodies with generous framing, realistic natural anatomy, warm daylight, turquoise and plum palette. No text, prices, currency symbols, logos, watermark or collage."
+        },
+        {
+            "file": "assets/images/contact-hero.webp",
+            "prompt": "Use case photorealistic-natural. New landscape 3:2 premium editorial photograph for swimming academy 'Contact us' page. Welcoming female swimming academy receptionist age 35 in plum polo seated at a beautiful reception desk beside a modern indoor pool, smiling naturally while answering a phone headset and looking at an adult visitor in lavender casual jacket. An inviting conversation, natural candid expressions, uncluttered elegant reception with a small plant and no signage. Frame full heads with generous space around subjects. Soft daylight, turquoise pool water and subtle purple accents, realistic hands and anatomy. No text, logos, watermarks or collage."
+        }
+    ]
+}

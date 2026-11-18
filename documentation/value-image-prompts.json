@@ -1,0 +1,21 @@
+{
+    "tool": "Built-in image_gen",
+    "assets": [
+        {
+            "file": "assets/images/value-care.webp",
+            "prompt": "Use case photorealistic-natural. Generate a new square premium editorial photograph for a swimming academy values card 'Care before competition', listen first and make every learner feel welcome. Friendly adult female instructor in plum polo at poolside, crouching to listen attentively to a fully clothed child age 7 in lavender casual clothes before their first lesson; child looks reassured, respectful natural interaction, bright modern indoor teaching pool behind. Full heads visible in upper half with generous crop room, uncluttered poolside lower half for website text overlay, turquoise water, soft warm daylight, realistic skin and anatomy. No text, logos, watermarks or collage."
+        },
+        {
+            "file": "assets/images/value-safety.webp",
+            "prompt": "Use case photorealistic-natural. Generate a new square premium editorial photograph for a swimming academy values card 'Safety without shortcuts', clear procedures and attentive supervision. Professional adult swim safety coach in plum athletic teaching top standing watch on pool deck holding a rescue tube and looking attentively toward a small supervised lesson in a clearly marked shallow teaching lane. Learners mostly submerged, safe modest swimming attire, realistic natural anatomy and professional demeanor. Full coach head and upper body in upper half with generous crop room, clean water and deck below for text overlay. Modern indoor pool, warm diffused daylight, turquoise water and purple accents. No text, logos, watermark or collage."
+        },
+        {
+            "file": "assets/images/value-progress.webp",
+            "prompt": "Use case photorealistic-natural. Generate a new square premium editorial photograph for swimming academy values card 'Progress with purpose', teaching achievable skills in sequence. Adult female beginner swimmer in modest plum athletic swim top and cap, shoulders above water, carefully practicing a gentle breathing drill beside a lavender kickboard while an attentive adult instructor in plum teaching top demonstrates a simple hand movement from the poolside. Patient focused expressions, realistic natural anatomy, modern bright indoor teaching pool, turquoise water, warm soft daylight. Full heads in upper half with generous crop room, uncluttered water in lower half for website text overlay. No text, logos, watermark or collage."
+        },
+        {
+            "file": "assets/images/value-belonging.webp",
+            "prompt": "Use case photorealistic-natural. Generate a new square premium editorial photograph for a swimming academy values card 'Belonging for everyone', respect every age and starting point. Welcoming small diverse group of fully clothed adult learners, one young adult woman, an older man with silver hair and a middle-aged woman with dark skin, smiling naturally together with an adult coach in plum polo at a modern indoor pool reception area. Lavender and plum athletic jackets, inclusive supportive mood, natural realistic faces and anatomy. Full heads with generous crop room in upper half, uncluttered poolside in lower half for website text overlay, turquoise water, warm diffused daylight. No text, logos, watermarks or collage."
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /dashboard/
+Sitemap: https://teknritsolutions.github.io/Swimming-Academy-for-Kids-Adults/sitemap.xml

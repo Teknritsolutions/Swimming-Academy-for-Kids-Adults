@@ -1,0 +1,29 @@
+{
+    "tool": "Built-in image_gen",
+    "assets": [
+        {
+            "file": "assets/images/batch-morning.webp",
+            "prompt": "Use case photorealistic-natural. Generate a new square premium editorial photograph for swimming academy card 'Early start', adult beginner lessons at 6:30 AM. Two adult beginner swimmers around age 40 in modest plum athletic swim tops and purple caps practicing calmly with lavender kickboards in a shallow indoor teaching lane, an attentive adult instructor nearby in plum teaching top. Beautiful early morning golden daylight through tall pool windows, quiet fresh atmosphere, turquoise water, anatomically realistic. Full heads and lesson activity in upper half with generous crop room; lower half softly rippling water for website text overlay. No text, logos, readable clocks, watermark or collage."
+        },
+        {
+            "file": "assets/images/batch-afterschool.webp",
+            "prompt": "Use case photorealistic-natural. New square premium editorial photograph for swimming academy card 'After-school rhythm', children's foundation lessons at 4 PM. Two cheerful children age 7 wearing modest lavender swim rashguards, purple caps and goggles practicing a gentle kickboard drill under close guidance of a friendly adult instructor in plum swim teaching top in shallow indoor teaching pool. Warm late-afternoon daylight, clean modern pool, turquoise water, positive focused lesson, realistic natural anatomy. Frame full heads with generous crop room and main activity in upper half; uncluttered water below for website text overlay. No text, logos, watermarks or collage."
+        },
+        {
+            "file": "assets/images/batch-weekend.webp",
+            "prompt": "Use case photorealistic-natural. New square premium editorial photograph for swimming academy card 'Weekend moments', relaxed weekend fundamentals lessons at 9 AM. A friendly adult beginner learner and a child age 9 in modest purple athletic swim rashguards and swim caps practicing supported floating with separate lavender kickboards in a supervised shallow teaching lane, a professional adult coach in plum teaching top nearby. Bright welcoming weekend morning daylight in modern indoor pool, diverse natural faces, turquoise water, anatomically realistic. Full heads and main lesson in upper half with generous crop room; uncluttered water lower half for website text overlay. No text, logos, watermarks or collage."
+        },
+        {
+            "file": "assets/images/batch-level.webp",
+            "prompt": "Use case photorealistic-natural. New square premium editorial photograph for swimming academy selection guide card 'Start with your level'. Professional adult coach in plum polo at indoor poolside listening carefully to a fully clothed adult new learner in lavender athletic jacket and discussing comfortable starting skills with a blank unlettered clipboard. Reassuring friendly professional interaction, modern teaching pool behind them, natural daylight, turquoise and plum palette, realistic anatomy. Full heads and interaction in upper half with generous crop room, clean poolside and water in lower half for text overlay. No text, logos, watermark or collage."
+        },
+        {
+            "file": "assets/images/batch-routine.webp",
+            "prompt": "Use case photorealistic-natural. New square premium editorial photograph for swimming academy selection guide card 'Think about consistency', choose lesson days that fit a weekly routine. Fully clothed adult learner in lavender athletic zip jacket seated on a bench beside an indoor pool carefully planning lessons with a blank weekly calendar notebook, simple empty grid with no letters or numerals. Folded purple towel, goggles and neat swim bag nearby. Natural realistic hands and anatomy, calm thoughtful expression, soft daylight, turquoise pool visible behind. Full head and notebook in upper half with generous crop room, uncluttered bench/poolside lower half for website text overlay. No text, logos, watermark or collage."
+        },
+        {
+            "file": "assets/images/batch-arrival.webp",
+            "prompt": "Use case photorealistic-natural. New square premium editorial photograph for swimming academy selection guide card 'Allow time to settle', arrive early and prepare calmly for a lesson. Fully clothed adult learner in a lavender warm-up jacket sitting on a clean poolside changing bench carefully placing a purple swim cap and goggles beside a folded plum towel and open swim bag. Modest non-private reception changing area with indoor pool visible in distance, no undressing or changing clothes, calm ready-to-begin mood, realistic natural anatomy, warm daylight. Full head and preparation activity in upper half with generous crop room; uncluttered bench and deck below for text overlay. No text, logos, watermarks or collage."
+        }
+    ]
+}

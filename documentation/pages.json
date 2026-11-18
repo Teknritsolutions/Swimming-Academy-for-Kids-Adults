@@ -1,0 +1,192 @@
+[
+  {
+    "file": "pages/homepage1.html",
+    "title": "Make your waves",
+    "kind": "public"
+  },
+  {
+    "file": "pages/homepage2.html",
+    "title": "A new perspective",
+    "kind": "public"
+  },
+  {
+    "file": "pages/about.html",
+    "title": "Our story",
+    "kind": "public"
+  },
+  {
+    "file": "pages/programs.html",
+    "title": "Swimming programs",
+    "kind": "public"
+  },
+  {
+    "file": "pages/program-details.html",
+    "title": "Kids beginner swimming",
+    "kind": "public"
+  },
+  {
+    "file": "pages/coaches.html",
+    "title": "Meet your coaches",
+    "kind": "public"
+  },
+  {
+    "file": "pages/batch-timings.html",
+    "title": "Batch timings",
+    "kind": "public"
+  },
+  {
+    "file": "pages/pricing.html",
+    "title": "Membership pricing",
+    "kind": "public"
+  },
+  {
+    "file": "pages/blog.html",
+    "title": "The swim journal",
+    "kind": "public"
+  },
+  {
+    "file": "pages/blog-details.html",
+    "title": "Your first swimming lesson",
+    "kind": "public"
+  },
+  {
+    "file": "pages/contact.html",
+    "title": "Contact the academy",
+    "kind": "public"
+  },
+  {
+    "file": "pages/login.html",
+    "title": "Welcome back",
+    "kind": "auth"
+  },
+  {
+    "file": "pages/register.html",
+    "title": "Create an account",
+    "kind": "auth"
+  },
+  {
+    "file": "pages/forgot-password.html",
+    "title": "Reset your password",
+    "kind": "auth"
+  },
+  {
+    "file": "pages/404.html",
+    "title": "Page not found",
+    "kind": "auth"
+  },
+  {
+    "file": "pages/coming-soon.html",
+    "title": "Coming soon",
+    "kind": "auth"
+  },
+  {
+    "file": "dashboard/member/index.html",
+    "title": "Member · Overview",
+    "kind": "dashboard"
+  },
+  {
+    "file": "dashboard/member/programs.html",
+    "title": "Member · My Programs",
+    "kind": "dashboard"
+  },
+  {
+    "file": "dashboard/member/attendance.html",
+    "title": "Member · Attendance",
+    "kind": "dashboard"
+  },
+  {
+    "file": "dashboard/member/progress.html",
+    "title": "Member · Skill Progress",
+    "kind": "dashboard"
+  },
+  {
+    "file": "dashboard/member/schedule.html",
+    "title": "Member · My Schedule",
+    "kind": "dashboard"
+  },
+  {
+    "file": "dashboard/member/payments.html",
+    "title": "Member · Fee Payments",
+    "kind": "dashboard"
+  },
+  {
+    "file": "dashboard/member/notifications.html",
+    "title": "Member · Notifications",
+    "kind": "dashboard"
+  },
+  {
+    "file": "dashboard/member/profile.html",
+    "title": "Member · My Profile",
+    "kind": "dashboard"
+  },
+  {
+    "file": "dashboard/member/settings.html",
+    "title": "Member · Settings",
+    "kind": "dashboard"
+  },
+  {
+    "file": "dashboard/admin/index.html",
+    "title": "Admin · Overview",
+    "kind": "dashboard"
+  },
+  {
+    "file": "dashboard/admin/members.html",
+    "title": "Admin · Members",
+    "kind": "dashboard"
+  },
+  {
+    "file": "dashboard/admin/coaches.html",
+    "title": "Admin · Coaches",
+    "kind": "dashboard"
+  },
+  {
+    "file": "dashboard/admin/programs.html",
+    "title": "Admin · Programs",
+    "kind": "dashboard"
+  },
+  {
+    "file": "dashboard/admin/batches.html",
+    "title": "Admin · Batches",
+    "kind": "dashboard"
+  },
+  {
+    "file": "dashboard/admin/enrollments.html",
+    "title": "Admin · Enrollments",
+    "kind": "dashboard"
+  },
+  {
+    "file": "dashboard/admin/attendance.html",
+    "title": "Admin · Attendance",
+    "kind": "dashboard"
+  },
+  {
+    "file": "dashboard/admin/payments.html",
+    "title": "Admin · Payments",
+    "kind": "dashboard"
+  },
+  {
+    "file": "dashboard/admin/messages.html",
+    "title": "Admin · Messages",
+    "kind": "dashboard"
+  },
+  {
+    "file": "dashboard/admin/analytics.html",
+    "title": "Admin · Analytics",
+    "kind": "dashboard"
+  },
+  {
+    "file": "dashboard/admin/notifications.html",
+    "title": "Admin · Notifications",
+    "kind": "dashboard"
+  },
+  {
+    "file": "dashboard/admin/settings.html",
+    "title": "Admin · Settings",
+    "kind": "dashboard"
+  },
+  {
+    "file": "documentation/index.html",
+    "title": "Academy documentation",
+    "kind": "public"
+  }
+]

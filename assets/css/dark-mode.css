@@ -1,0 +1,7 @@
+/* Theme tokens live in variables.css and update every component and chart. */
+[data-theme="dark"] .error {
+    color: #f0a5bd;
+}
+[data-theme="dark"] .hero-visual::before {
+    border-color: #513b59;
+}

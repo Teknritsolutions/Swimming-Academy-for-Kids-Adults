@@ -1,0 +1,445 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta
+            name="description"
+            content="Thoughtful swimming programs, patient coaching and purposeful progress for kids and adults."
+        />
+        <meta name="theme-color" content="#542447" />
+        <title>Admin · Attendance | Orynwave Swim Academy</title>
+        <link rel="canonical" href="https://teknritsolutions.github.io/Swimming-Academy-for-Kids-Adults/dashboard/admin/attendance.html" />
+        <meta property="og:title" content="Admin · Attendance | Orynwave Swim Academy" />
+        <meta
+            property="og:description"
+            content="Thoughtful swimming programs, patient coaching and purposeful progress for kids and adults."
+        />
+        <meta property="og:type" content="website" />
+        <link rel="icon" type="image/svg+xml" href="../../assets/favicon.svg" />
+        <link rel="icon" href="../../assets/favicon.ico" sizes="any" />
+        <link rel="apple-touch-icon" href="../../assets/apple-touch-icon.png" />
+        <script src="../../assets/js/theme.js"></script>
+        <link rel="stylesheet" href="../../assets/vendor/bootstrap.min.css" />
+        <link rel="stylesheet" href="../../assets/css/variables.css" />
+        <link rel="stylesheet" href="../../assets/css/style.css" />
+        <link rel="stylesheet" href="../../assets/css/components.css" />
+        <link rel="stylesheet" href="../../assets/css/dark-mode.css" />
+        <link rel="stylesheet" href="../../assets/css/rtl.css" />
+        <link rel="stylesheet" href="../../assets/css/dashboard.css" />
+        <link rel="stylesheet" href="../../assets/css/responsive.css" />
+        <script type="application/ld+json">
+            {
+                "@context": "https://schema.org",
+                "@type": "WebPage",
+                "name": "Admin · Attendance",
+                "description": "Thoughtful swimming programs, patient coaching and purposeful progress for kids and adults."
+            }
+        </script>
+    </head>
+    <body class="">
+        <a class="skip" href="#main">Skip to content</a>
+        <div class="dashboard-shell" data-role="admin">
+            <aside class="sidebar" id="dashboard-sidebar">
+                <a class="brand" href="../../pages/homepage1.html">
+                    <img src="../../assets/favicon.svg" alt="" />
+                    <div>
+                        <strong>
+                            orynwave
+                            <span>Swimming academy</span>
+                        </strong>
+                    </div>
+                </a>
+                <button class="icon-btn sidebar-close" aria-label="Close sidebar">
+                    <i data-lucide="x" aria-hidden="true"></i>
+                </button>
+                <span class="sidebar-label">admin workspace</span>
+                <nav aria-label="admin dashboard">
+                    <a href="index.html" class="">
+                        <i data-lucide="layout-dashboard" aria-hidden="true"></i>
+                        Overview
+                    </a>
+                    <a href="members.html" class="">
+                        <i data-lucide="users" aria-hidden="true"></i>
+                        Members
+                    </a>
+                    <a href="coaches.html" class="">
+                        <i data-lucide="user-round-check" aria-hidden="true"></i>
+                        Coaches
+                    </a>
+                    <a href="programs.html" class="">
+                        <i data-lucide="waves" aria-hidden="true"></i>
+                        Programs
+                    </a>
+                    <a href="batches.html" class="">
+                        <i data-lucide="calendar-days" aria-hidden="true"></i>
+                        Batches
+                    </a>
+                    <a href="enrollments.html" class="">
+                        <i data-lucide="clipboard-list" aria-hidden="true"></i>
+                        Enrollments
+                    </a>
+                    <a href="attendance.html" class="active" aria-current="page">
+                        <i data-lucide="clipboard-check" aria-hidden="true"></i>
+                        Attendance
+                    </a>
+                    <a href="payments.html" class="">
+                        <i data-lucide="wallet" aria-hidden="true"></i>
+                        Payments
+                    </a>
+                    <a href="messages.html" class="">
+                        <i data-lucide="messages-square" aria-hidden="true"></i>
+                        Messages
+                    </a>
+                    <a href="analytics.html" class="">
+                        <i data-lucide="chart-no-axes-combined" aria-hidden="true"></i>
+                        Analytics
+                    </a>
+                    <a href="notifications.html" class="">
+                        <i data-lucide="bell" aria-hidden="true"></i>
+                        Notifications
+                    </a>
+                    <a href="settings.html" class="">
+                        <i data-lucide="settings" aria-hidden="true"></i>
+                        Settings
+                    </a>
+                    <a href="../../pages/login.html" data-logout>
+                        <i data-lucide="log-out" aria-hidden="true"></i>
+                        Logout
+                    </a>
+                </nav>
+                <div class="sidebar-profile">
+                    <div class="person">
+                        <span class="avatar">SC</span>
+                        <div>
+                            <strong>Sam Carter</strong>
+                            <small>Academy administrator</small>
+                        </div>
+                    </div>
+                </div>
+            </aside>
+            <div class="dashboard-main">
+                <header class="dashboard-toolbar">
+                    <div class="actions">
+                        <button
+                            class="icon-btn menu-toggle sidebar-toggle"
+                            aria-label="Open dashboard navigation"
+                            aria-controls="dashboard-sidebar"
+                            aria-expanded="false"
+                        >
+                            <i data-lucide="menu" aria-hidden="true"></i>
+                        </button>
+                        <h2>Attendance</h2>
+                    </div>
+                    <div class="toolbar-controls">
+                        <a class="icon-btn" href="notifications.html">
+                            <i data-lucide="bell" aria-hidden="true"></i>
+                        </a>
+                        <button
+                            class="icon-btn theme-toggle"
+                            aria-label="Switch color theme"
+                            title="Switch theme"
+                        >
+                            <i data-lucide="moon" aria-hidden="true"></i>
+                        </button>
+                        <button
+                            class="icon-btn rtl-toggle"
+                            aria-label="Switch text direction"
+                            title="Switch text direction"
+                        >
+                            <span dir="ltr">RTL</span>
+                        </button>
+                        <details class="nav-drop">
+                            <summary aria-label="Profile menu">
+                                <span class="avatar">SC</span>
+                            </summary>
+                            <div class="dropdown profile-dropdown">
+                                <a class="" href="settings.html">
+                                    Your profile
+                                </a>
+                                <a class="" href="../../pages/homepage1.html">Visit academy</a>
+                                <a href="../../pages/login.html" data-logout>Logout</a>
+                            </div>
+                        </details>
+                    </div>
+                </header>
+                <main id="main" class="dashboard-content">
+                    <div class="dashboard-heading">
+                        <div>
+                            <span class="eyebrow">Your academy, at a glance</span>
+                            <h1>Attendance</h1>
+                            <p>A clear view of who’s showing up and moving forward.</p>
+                        </div>
+                    </div>
+                    <div class="grid grid-3">
+                        <article class="card metric">
+                            <div>
+                                <small>Average attendance</small>
+                                <span class="icon-box">
+                                    <i data-lucide="clipboard-check" aria-hidden="true"></i>
+                                </span>
+                            </div>
+                            <strong>92%</strong>
+                            <span class="trend">Sample academy average</span>
+                        </article>
+                        <article class="card metric">
+                            <div>
+                                <small>Attended sessions</small>
+                                <span class="icon-box">
+                                    <i data-lucide="check" aria-hidden="true"></i>
+                                </span>
+                            </div>
+                            <strong>220</strong>
+                            <span class="trend">Of 240 expected visits</span>
+                        </article>
+                        <article class="card metric">
+                            <div>
+                                <small>Missed sessions</small>
+                                <span class="icon-box">
+                                    <i data-lucide="calendar-x" aria-hidden="true"></i>
+                                </span>
+                            </div>
+                            <strong>20</strong>
+                            <span class="trend">Across all sample batches</span>
+                        </article>
+                    </div>
+                    <div class="grid grid-2 dashboard-row">
+                        <article class="card chart-card">
+                            <div class="chart-head">
+                                <div>
+                                    <h2>Monthly attendance</h2>
+                                    <p>Sample academy data</p>
+                                </div>
+                                <select
+                                    aria-label="Monthly attendance date range"
+                                    class="chart-range"
+                                >
+                                    <option value="current">This period</option>
+                                    <option value="previous">Previous period</option>
+                                </select>
+                            </div>
+                            <div class="chart-area">
+                                <canvas
+                                    data-chart="line"
+                                    data-series="attendance"
+                                    aria-label="Monthly attendance"
+                                    role="img"
+                                ></canvas>
+                            </div>
+                        </article>
+                        <div class="form-panel">
+                            <h3>November 2026 · class dates</h3>
+                            <div class="dashboard-row">
+                                <div class="calendar">
+                                    <div class="day">M</div>
+                                    <div class="day">T</div>
+                                    <div class="day">W</div>
+                                    <div class="day">T</div>
+                                    <div class="day">F</div>
+                                    <div class="day">S</div>
+                                    <div class="day">S</div>
+                                    <div></div>
+                                    <div></div>
+                                    <div></div>
+                                    <div></div>
+                                    <div></div>
+                                    <div></div>
+                                    <div class="">1</div>
+                                    <div class="">2</div>
+                                    <div class="present">
+                                        3
+                                        <br />
+                                        Class
+                                    </div>
+                                    <div class="">4</div>
+                                    <div class="present">
+                                        5
+                                        <br />
+                                        Class
+                                    </div>
+                                    <div class="">6</div>
+                                    <div class="">7</div>
+                                    <div class="">8</div>
+                                    <div class="">9</div>
+                                    <div class="present">
+                                        10
+                                        <br />
+                                        Class
+                                    </div>
+                                    <div class="">11</div>
+                                    <div class="present">
+                                        12
+                                        <br />
+                                        Class
+                                    </div>
+                                    <div class="">13</div>
+                                    <div class="">14</div>
+                                    <div class="">15</div>
+                                    <div class="">16</div>
+                                    <div class="present">
+                                        17
+                                        <br />
+                                        Class
+                                    </div>
+                                    <div class="">18</div>
+                                    <div class="present">
+                                        19
+                                        <br />
+                                        Class
+                                    </div>
+                                    <div class="">20</div>
+                                    <div class="">21</div>
+                                    <div class="">22</div>
+                                    <div class="">23</div>
+                                    <div class="present">
+                                        24
+                                        <br />
+                                        Class
+                                    </div>
+                                    <div class="">25</div>
+                                    <div class="present">
+                                        26
+                                        <br />
+                                        Class
+                                    </div>
+                                    <div class="">27</div>
+                                    <div class="">28</div>
+                                    <div class="">29</div>
+                                    <div class="">30</div>
+                                    <div></div>
+                                    <div></div>
+                                    <div></div>
+                                    <div></div>
+                                    <div></div>
+                                    <div></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="dashboard-row">
+                        <div class="filter-bar">
+                            <div class="field">
+                                <label for="manage-search">Search attendance</label>
+                                <input
+                                    id="manage-search"
+                                    type="search"
+                                    placeholder="Search attendance"
+                                    data-table-search
+                                />
+                            </div>
+                            <div class="field">
+                                <label for="manage-status">Status / group</label>
+                                <select id="manage-status" name="manage-status" data-table-status>
+                                    <option value="">All records</option>
+                                    <option>Present</option>
+                                    <option>Absent</option>
+                                </select>
+                            </div>
+                            <button class="btn manage-add" data-kind="attendance">
+                                <i data-lucide="plus" aria-hidden="true"></i>
+                                Add attendance record
+                            </button>
+                        </div>
+                        <div class="table-wrap">
+                            <table
+                                data-manage="attendance"
+                                data-headers='["Member","Batch","Session date","Coach","Attendance"]'
+                            >
+                                <thead>
+                                    <tr>
+                                        <th>Member</th>
+                                        <th>Batch</th>
+                                        <th>Session date</th>
+                                        <th>Coach</th>
+                                        <th>Attendance</th>
+                                        <th>Actions</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr data-record="attendance-0">
+                                        <td data-col="0">Alex Johnson</td>
+                                        <td data-col="1">A01</td>
+                                        <td data-col="2">Nov 17, 2026</td>
+                                        <td data-col="3">James Carter</td>
+                                        <td data-col="4"><span class="badge">Present</span></td>
+                                        <td>
+                                            <button
+                                                class="btn btn-secondary btn-sm manage-edit"
+                                                data-kind="attendance"
+                                            >
+                                                Edit
+                                            </button>
+                                            <button class="btn btn-sm toggle-attendance">
+                                                Toggle
+                                            </button>
+                                        </td>
+                                    </tr>
+                                    <tr data-record="attendance-1">
+                                        <td data-col="0">Daniel King</td>
+                                        <td data-col="1">A01</td>
+                                        <td data-col="2">Nov 17, 2026</td>
+                                        <td data-col="3">James Carter</td>
+                                        <td data-col="4"><span class="badge">Absent</span></td>
+                                        <td>
+                                            <button
+                                                class="btn btn-secondary btn-sm manage-edit"
+                                                data-kind="attendance"
+                                            >
+                                                Edit
+                                            </button>
+                                            <button class="btn btn-sm toggle-attendance">
+                                                Toggle
+                                            </button>
+                                        </td>
+                                    </tr>
+                                    <tr data-record="attendance-2">
+                                        <td data-col="0">Maya Lee</td>
+                                        <td data-col="1">J02</td>
+                                        <td data-col="2">Nov 16, 2026</td>
+                                        <td data-col="3">Sofia Reed</td>
+                                        <td data-col="4"><span class="badge">Present</span></td>
+                                        <td>
+                                            <button
+                                                class="btn btn-secondary btn-sm manage-edit"
+                                                data-kind="attendance"
+                                            >
+                                                Edit
+                                            </button>
+                                            <button class="btn btn-sm toggle-attendance">
+                                                Toggle
+                                            </button>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <p class="empty-state" data-table-empty hidden>
+                                No records match your search.
+                            </p>
+                        </div>
+                        <p class="result-count" data-table-count role="status"></p>
+                    </div>
+                </main>
+            </div>
+        </div>
+        <dialog id="app-dialog">
+            <div class="dialog-head">
+                <h2 id="dialog-title">Details</h2>
+                <button class="icon-btn" id="dialog-close" aria-label="Close dialog">
+                    <i data-lucide="x" aria-hidden="true"></i>
+                </button>
+            </div>
+            <div id="dialog-content"></div>
+        </dialog>
+        <div class="toast" id="toast" role="status" hidden></div>
+        <script src="../../assets/vendor/lucide.min.js"></script>
+        <script src="../../assets/vendor/chart.umd.js"></script>
+        <script src="../../assets/js/main.js" defer></script>
+        <script src="../../assets/js/rtl.js" defer></script>
+        <script src="../../assets/js/forms.js" defer></script>
+        <script src="../../assets/js/filters.js" defer></script>
+        <script src="../../assets/js/demo-data.js" defer></script>
+        <script src="../../assets/js/dashboard.js" defer></script>
+        <script src="../../assets/js/charts.js" defer></script>
+        <script src="../../assets/js/selects.js" defer></script>
+    </body>
+</html>

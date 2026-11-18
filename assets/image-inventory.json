@@ -1,0 +1,427 @@
+[
+  {
+    "page": "pages/homepage1.html",
+    "name": "home1-hero",
+    "alt": "An instructor helping a child build swimming confidence"
+  },
+  {
+    "page": "pages/homepage1.html",
+    "name": "home1-kids",
+    "alt": "Kids Swimming swimming lesson"
+  },
+  {
+    "page": "pages/homepage1.html",
+    "name": "home1-adults",
+    "alt": "Adult Swimming swimming lesson"
+  },
+  {
+    "page": "pages/homepage1.html",
+    "name": "home1-advanced",
+    "alt": "Advanced Performance swimming lesson"
+  },
+  {
+    "page": "pages/homepage1.html",
+    "name": "home1-about",
+    "alt": "Students and an instructor talking beside an indoor pool"
+  },
+  {
+    "page": "pages/homepage1.html",
+    "name": "home1-pool",
+    "alt": "Bright indoor swimming pool with dedicated lap lanes"
+  },
+  {
+    "page": "pages/homepage1.html",
+    "name": "home1-changing",
+    "alt": "Clean modern swimming pool changing rooms"
+  },
+  {
+    "page": "pages/homepage1.html",
+    "name": "home1-equipment",
+    "alt": "Swimming training equipment arranged by the pool"
+  },
+  {
+    "page": "pages/homepage1.html",
+    "name": "home1-coach-1",
+    "alt": "Illustrative swimming coach Emma Wilson"
+  },
+  {
+    "page": "pages/homepage1.html",
+    "name": "home1-coach-2",
+    "alt": "Illustrative swimming coach James Carter"
+  },
+  {
+    "page": "pages/homepage1.html",
+    "name": "home1-coach-3",
+    "alt": "Illustrative swimming coach Sofia Reed"
+  },
+  {
+    "page": "pages/homepage1.html",
+    "name": "home1-cta",
+    "alt": "Swimmers enjoying a supportive pool environment"
+  },
+  {
+    "page": "pages/homepage2.html",
+    "name": "home2-hero",
+    "alt": "A tranquil premium indoor pool with a swimmer in a lap lane"
+  },
+  {
+    "page": "pages/homepage2.html",
+    "name": "home2-method",
+    "alt": "Coach explaining a swimming stroke to a teenager"
+  },
+  {
+    "page": "pages/homepage2.html",
+    "name": "home2-pool",
+    "alt": "Indoor teaching pool with safe entry steps"
+  },
+  {
+    "page": "pages/homepage2.html",
+    "name": "home2-coach",
+    "alt": "Illustrative head coach at the poolside"
+  },
+  {
+    "page": "pages/homepage2.html",
+    "name": "home2-story",
+    "alt": "Older adult swimmer celebrating a completed lesson"
+  },
+  {
+    "page": "pages/homepage2.html",
+    "name": "home2-cta",
+    "alt": "Swimmer gliding through a pool lane"
+  },
+  {
+    "page": "pages/about.html",
+    "name": "about-hero",
+    "alt": "Good teaching changes everything."
+  },
+  {
+    "page": "pages/about.html",
+    "name": "about-safety",
+    "alt": "Attentive lifeguard supervising swimming instruction"
+  },
+  {
+    "page": "pages/about.html",
+    "name": "about-culture",
+    "alt": "Illustrative swimming academy teaching team together"
+  },
+  {
+    "page": "pages/programs.html",
+    "name": "programs-hero",
+    "alt": "Find the lane that feels like you."
+  },
+  {
+    "page": "pages/programs.html",
+    "name": "program-kids",
+    "alt": "Kids Swimming swimming lesson"
+  },
+  {
+    "page": "pages/programs.html",
+    "name": "program-teens",
+    "alt": "Teen Swimming swimming lesson"
+  },
+  {
+    "page": "pages/programs.html",
+    "name": "program-adults",
+    "alt": "Adult Swimming swimming lesson"
+  },
+  {
+    "page": "pages/programs.html",
+    "name": "program-beginner",
+    "alt": "Beginner Foundations swimming lesson"
+  },
+  {
+    "page": "pages/programs.html",
+    "name": "program-intermediate",
+    "alt": "Intermediate Skills swimming lesson"
+  },
+  {
+    "page": "pages/programs.html",
+    "name": "program-advanced",
+    "alt": "Advanced Performance swimming lesson"
+  },
+  {
+    "page": "pages/programs.html",
+    "name": "program-private",
+    "alt": "Private Coaching swimming lesson"
+  },
+  {
+    "page": "pages/programs.html",
+    "name": "program-benefits",
+    "alt": "Swimming equipment carefully prepared for a lesson"
+  },
+  {
+    "page": "pages/program-details.html",
+    "name": "details-hero",
+    "alt": "Small splashes. Big possibilities."
+  },
+  {
+    "page": "pages/coaches.html",
+    "name": "coaches-hero",
+    "alt": "The right guidance makes the difference."
+  },
+  {
+    "page": "pages/coaches.html",
+    "name": "coach-head",
+    "alt": "Illustrative head coach Claire Bennett"
+  },
+  {
+    "page": "pages/coaches.html",
+    "name": "coach-directory-1",
+    "alt": "Illustrative swim educator Alex Morgan"
+  },
+  {
+    "page": "pages/coaches.html",
+    "name": "coach-directory-2",
+    "alt": "Illustrative swim educator Nina Brooks"
+  },
+  {
+    "page": "pages/coaches.html",
+    "name": "coach-directory-3",
+    "alt": "Illustrative swim educator Leo Hayes"
+  },
+  {
+    "page": "pages/blog.html",
+    "name": "blog-hero",
+    "alt": "A fresh perspective on the water."
+  },
+  {
+    "page": "pages/blog.html",
+    "name": "blog-feature",
+    "alt": "Parent helping a child prepare swimming goggles"
+  },
+  {
+    "page": "pages/blog.html",
+    "name": "blog-breathing",
+    "alt": "Finding your breathing rhythm"
+  },
+  {
+    "page": "pages/blog.html",
+    "name": "blog-safety",
+    "alt": "A confident start to water safety"
+  },
+  {
+    "page": "pages/blog.html",
+    "name": "blog-fitness",
+    "alt": "Swimming into a healthier routine"
+  },
+  {
+    "page": "pages/blog-details.html",
+    "name": "article-hero",
+    "alt": "Your first swimming lesson, without the guesswork."
+  },
+  {
+    "page": "pages/blog-details.html",
+    "name": "article-body",
+    "alt": "Adult swimmer wearing well-fitted goggles and a swimming cap"
+  },
+  {
+    "page": "pages/blog-details.html",
+    "name": "article-related",
+    "alt": "What progress can feel like"
+  },
+  {
+    "page": "pages/login.html",
+    "name": "login-photo",
+    "alt": "A tranquil indoor swimming pool"
+  },
+  {
+    "page": "pages/register.html",
+    "name": "register-photo",
+    "alt": "Adults enjoying a supportive swimming lesson"
+  },
+  {
+    "page": "pages/homepage1.html",
+    "name": "portrait-amelia",
+    "alt": "Generated illustrative testimonial portrait"
+  },
+  {
+    "page": "pages/homepage1.html",
+    "name": "portrait-daniel",
+    "alt": "Generated illustrative testimonial portrait"
+  },
+  {
+    "page": "pages/homepage1.html",
+    "name": "portrait-maya",
+    "alt": "Generated illustrative testimonial portrait"
+  },
+  {
+    "page": "pages/homepage1.html",
+    "name": "journey-program",
+    "alt": "Generated swimming academy learning journey background"
+  },
+  {
+    "page": "pages/homepage1.html",
+    "name": "journey-timing",
+    "alt": "Generated swimming academy learning journey background"
+  },
+  {
+    "page": "pages/homepage1.html",
+    "name": "journey-coach",
+    "alt": "Generated swimming academy learning journey background"
+  },
+  {
+    "page": "pages/homepage1.html",
+    "name": "journey-progress",
+    "alt": "Generated swimming academy learning journey background"
+  },
+  {
+    "page": "pages/homepage2.html",
+    "name": "pathway-little",
+    "alt": "Generated little swimmers lesson photograph"
+  },
+  {
+    "page": "pages/homepage2.html",
+    "name": "pathway-junior",
+    "alt": "Generated junior swimmers lesson photograph"
+  },
+  {
+    "page": "pages/homepage2.html",
+    "name": "pathway-teen",
+    "alt": "Generated teen swimmers lesson photograph"
+  },
+  {
+    "page": "pages/homepage2.html",
+    "name": "pathway-adult",
+    "alt": "Generated adult swimmers lesson photograph"
+  },
+  {
+    "page": "pages/homepage2.html",
+    "name": "portrait-helen",
+    "alt": "Illustrative portrait of Helen M."
+  },
+  {
+    "page": "pages/batch-timings.html",
+    "name": "timings-hero",
+    "alt": "Generated swimming academy timings hero photograph"
+  },
+  {
+    "page": "pages/enrollment.html",
+    "name": "enrollment-hero",
+    "alt": "Generated swimming academy enrollment hero photograph"
+  },
+  {
+    "page": "pages/pricing.html",
+    "name": "pricing-hero",
+    "alt": "Generated swimming academy pricing hero photograph"
+  },
+  {
+    "page": "pages/contact.html",
+    "name": "contact-hero",
+    "alt": "Generated swimming academy contact hero photograph"
+  },
+  {
+    "page": "pages/about.html",
+    "name": "value-care",
+    "alt": "Generated photograph for the academy value: care"
+  },
+  {
+    "page": "pages/about.html",
+    "name": "value-safety",
+    "alt": "Generated photograph for the academy value: safety"
+  },
+  {
+    "page": "pages/about.html",
+    "name": "value-progress",
+    "alt": "Generated photograph for the academy value: progress"
+  },
+  {
+    "page": "pages/about.html",
+    "name": "value-belonging",
+    "alt": "Generated photograph for the academy value: belonging"
+  },
+  {
+    "page": "pages/program-details.html",
+    "name": "skill-comfort",
+    "alt": "Generated supervised swimming lesson: comfort"
+  },
+  {
+    "page": "pages/program-details.html",
+    "name": "skill-breathing",
+    "alt": "Generated supervised swimming lesson: breathing"
+  },
+  {
+    "page": "pages/program-details.html",
+    "name": "skill-floating",
+    "alt": "Generated supervised swimming lesson: floating"
+  },
+  {
+    "page": "pages/batch-timings.html",
+    "name": "batch-morning",
+    "alt": "Generated swimming batch guidance: morning"
+  },
+  {
+    "page": "pages/batch-timings.html",
+    "name": "batch-afterschool",
+    "alt": "Generated swimming batch guidance: afterschool"
+  },
+  {
+    "page": "pages/batch-timings.html",
+    "name": "batch-weekend",
+    "alt": "Generated swimming batch guidance: weekend"
+  },
+  {
+    "page": "pages/batch-timings.html",
+    "name": "batch-level",
+    "alt": "Generated swimming batch guidance: level"
+  },
+  {
+    "page": "pages/batch-timings.html",
+    "name": "batch-routine",
+    "alt": "Generated swimming batch guidance: routine"
+  },
+  {
+    "page": "pages/batch-timings.html",
+    "name": "batch-arrival",
+    "alt": "Generated swimming batch guidance: arrival"
+  },
+  {
+    "page": "pages/coaches.html",
+    "name": "coach-consultation",
+    "alt": "Generated coaching photograph: consultation"
+  },
+  {
+    "page": "pages/coaches.html",
+    "name": "coach-foundations",
+    "alt": "Generated coaching photograph: foundations"
+  },
+  {
+    "page": "pages/coaches.html",
+    "name": "coach-awareness",
+    "alt": "Generated coaching photograph: awareness"
+  },
+  {
+    "page": "pages/coaches.html",
+    "name": "coach-technique",
+    "alt": "Generated coaching photograph: technique"
+  },
+  {
+    "page": "pages/pricing.html",
+    "name": "pricing-payment",
+    "alt": "Generated membership information: payment"
+  },
+  {
+    "page": "pages/pricing.html",
+    "name": "pricing-period",
+    "alt": "Generated membership information: period"
+  },
+  {
+    "page": "pages/pricing.html",
+    "name": "pricing-guidance",
+    "alt": "Generated membership information: guidance"
+  },
+  {
+    "page": "pages/contact.html",
+    "name": "contact-inquiry",
+    "alt": "A swimming advisor helping a learner plan their lessons"
+  },
+  {
+    "page": "pages/404.html",
+    "name": "utility-404",
+    "alt": "Generated swimming academy utility page image"
+  },
+  {
+    "page": "pages/coming-soon.html",
+    "name": "utility-coming",
+    "alt": "Generated swimming academy utility page image"
+  }
+]

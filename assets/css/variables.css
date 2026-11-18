@@ -1,0 +1,31 @@
+@import url("../fonts/fonts.css");
+:root {
+    --primary: #542447;
+    --secondary: #9565b8;
+    --accent: #79518f;
+    --bg: #ffffff;
+    --surface: #faf7fc;
+    --card: #ffffff;
+    --text: #241b28;
+    --muted: #6d6470;
+    --border: #d5c8dc;
+    --container-max: 1248px;
+    --page-gutter: 32px;
+    --section-space: 80px;
+    --grid-gap: 24px;
+    --radius: 14px;
+    --font: "Plus Jakarta Sans", sans-serif;
+    --paragraph-size: 17px;
+    --h1: clamp(2.125rem, 4vw, 3.25rem);
+    --h2: clamp(1.75rem, 3vw, 2.25rem);
+    --h3: clamp(1.125rem, 2vw, 1.375rem);
+}
+[data-theme="dark"] {
+    --bg: #141017;
+    --surface: #1c1620;
+    --card: #241c29;
+    --text: #f8f4fa;
+    --muted: #c3b9c7;
+    --border: #3a303f;
+    --accent: #c6a5dd;
+}
